@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/ritish/luqman_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/ritish/luqman_ws/devel/lib:$LD_LIBRARY_PATH"
 export PATH='/opt/ros/noetic/bin:/home/ritish/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'
 export PWD='/home/ritish/luqman_ws/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/ritish/luqman_ws/devel/share/common-lisp'

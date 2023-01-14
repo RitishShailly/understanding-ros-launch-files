@@ -1,2 +1,2 @@
-
+learning_launch_files
 -DCATKIN_DEVEL_PREFIX=/home/ritish/luqman_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ritish/luqman_ws/install -G Unix Makefiles

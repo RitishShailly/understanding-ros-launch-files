@@ -35,3 +35,15 @@
 /home/ritish/luqman_ws/build/gtest/googletest/CMakeFiles/test.dir
 /home/ritish/luqman_ws/build/gtest/googletest/CMakeFiles/gtest_main.dir
 /home/ritish/luqman_ws/build/gtest/googletest/CMakeFiles/gtest.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/install/strip.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/install/local.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/edit_cache.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/test.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/std_msgs_generate_messages_nodejs.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/std_msgs_generate_messages_lisp.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/std_msgs_generate_messages_eus.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/install.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/list_install_components.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/rebuild_cache.dir
+/home/ritish/luqman_ws/build/learning_launch_files/CMakeFiles/std_msgs_generate_messages_cpp.dir
